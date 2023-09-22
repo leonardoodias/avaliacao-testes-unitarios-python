@@ -1,4 +1,6 @@
-# ETA
+# Testes Unitários em Python
+- Repositório utilizado como estudo de testes unitários em Python
+- Especialização em Testes Ágeis da Cesar School.
 
 ## Setup
 
