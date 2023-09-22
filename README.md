@@ -1,5 +1,5 @@
 # Testes Unitários em Python
-- Repositório utilizado como estudo de testes unitários em Python
+- Repositório utilizado para entrega da avaliação de testes unitários em Python
 - Especialização em Testes Ágeis da Cesar School.
 
 ## Setup
